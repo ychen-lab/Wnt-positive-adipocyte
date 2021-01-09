@@ -1,2 +1,2 @@
-# Wnt-positive-adipocyte
+# Wnt+ adipocytes
 Scripts for scRNA-seq and scATAC-seq
