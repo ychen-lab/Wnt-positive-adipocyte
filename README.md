@@ -1,2 +1,2 @@
 # A novel Wnt/β-catenin signaling driven adipocyte population that is required for beiging
-Scripts for scRNA-seq and scATAC-seq assays.
+Scripts to reproduce the analyses for scRNA-seq and scATAC-seq assays of the manuscript.
