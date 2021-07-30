@@ -15,7 +15,7 @@
 <li>Department of Cell and Molecular Biology, Tulane University, New Orleans, LA, USA</li>
 <li>State Key Laboratory of Oral Diseases, National Clinical Research Center for Oral Disease, West China Hospital of Stomatology, Sichuan University, Chengdu, Sichuan Province, China</li>
 <li>Tulane Center of Biomedical Informatics and Genomic, Deming Department of Medicine, School of Medicine, Tulane University, New Orleans, LA, USA</li>
-<li>hese authors contributed equally</li>
+<li>These authors contributed equally</li>
 </ol>
 
 *Correspondence: drtwd@sina.com (W.T.), ychen@tulane.edu (Y.C.)
