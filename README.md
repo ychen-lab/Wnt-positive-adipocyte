@@ -1,6 +1,8 @@
 # Discovery and functional assessment of a novel adipocyte population driven by intracellular Wnt/β-catenin signaling in mammals
 <p>The scripts in this repository contains all of the code for scRNA-seq and scATAC-seq analyses (10x Genomics) that was run to create the figures in the manuscript.</p>
 
+<p>eLife 2022;11:e77740 DOI: 10.7554/eLife.77740.</p>
+
 # Platform
 <ul>
   <li> [R](https://www.r-project.org/) </li>
